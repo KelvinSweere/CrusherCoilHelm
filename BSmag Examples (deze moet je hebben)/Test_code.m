@@ -1,7 +1,7 @@
     %---------------------------------------------------
     %  CRUSHER COIL HELM - kopie example_3D_solenoid_filament.m
     %  Kelvin Sweere
-    %  Voor het instaleren moet de BSmag Core aan het path worden
+    %  Voor het instaleren moet de BSmag Core aan path worden
     %  toegevoegd.
     %----------------------------------------------------
 
