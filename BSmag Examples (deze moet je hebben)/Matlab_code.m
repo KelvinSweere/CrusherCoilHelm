@@ -5,6 +5,8 @@
     %  bron: https://nl.mathworks.com/matlabcentral/fileexchange/50434-biot-savart-magnetic-toolbox
     %----------------------------------------------------
 
+%Dit is een test 123
+
     % Initialize
     clear all, close all,  clc
     %init toolbox
@@ -37,7 +39,7 @@
     %% vorm van het figuur
     % = 0.5*pi*(1/18):pi/2000:pi/2;         %tijd
     t = linspace(0,0.2,1000);
-    t_1 = t;
+    t_1 = t;                                %voor andere figuur.
 
     afst_tot_nul_z = 0.025/2;
 
