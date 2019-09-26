@@ -5,8 +5,6 @@
     %  bron: https://nl.mathworks.com/matlabcentral/fileexchange/50434-biot-savart-magnetic-toolbox
     %----------------------------------------------------
 
-%Dit is een test 123
-
     % Initialize
     clear all, close all,  clc
     %init toolbox
